@@ -12,9 +12,10 @@ import {
 import Logo from '../img/logo.png';
 import Check from '../img/check.png';
 
-const COLOR_PRIMARY = '#357eae';
+const COLOR_PRIMARY = '#81d8f7';
 const COLOR_GRAY = '#666666';
 const COLOR_WHITE = '#ffffff';
+const COLOR_BLACK = '#000000';
 
 export default class Login extends Component {
 
